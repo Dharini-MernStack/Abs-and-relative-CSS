@@ -1,0 +1,34 @@
+* {
+    font-family: sans-serif;
+  }
+  
+  .parent {
+    background-color: #d2d2d2;
+    padding: 20px;
+    position: relative;
+  
+    
+  }
+  
+  .child{
+    padding: 10px;
+    width: 600px;
+   
+  }
+  
+  .child1 {
+    background-color: orange;
+   position:absolute;
+   top:0px;
+   left:0px;
+  }
+  
+  .child2 {
+    background-color: greenyellow;
+  }
+  
+  .child3 {
+    background-color: royalblue;
+    color: white;
+  }
+  
